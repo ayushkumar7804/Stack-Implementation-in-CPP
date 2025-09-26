@@ -1,4 +1,4 @@
-# 🚀 Queue and Stack in C++
+# 🚀 Stack Implementation in C++
 
 ## 🎯 Objective
 Understand and implement **Queue** and **Stack** data structures in C++ using arrays, while exploring their differences in memory management, processing order, and efficiency.
